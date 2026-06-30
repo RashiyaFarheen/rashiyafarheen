@@ -5,7 +5,7 @@
 
 ---
 
-## 💡 About Me
+## 🟡 🚀 About Me
 - 🎓 Completed Bachelor of Computer Applications (BCA)
 - 📈 Interested in Data Analysis & Business Insights
 - 💻 Skilled in Excel, SQL, Power BI (Learning)
@@ -13,7 +13,7 @@
 
 ---
 
-## 🛠️ Skills
+## 🟡 🧠 Skills
 - 📊 Excel (Data Cleaning, Pivot Tables, Charts)
 - 🗄️ SQL (Joins, Queries, Basic Analysis)
 - 📉 Power BI (Dashboards & Reports)
@@ -21,14 +21,14 @@
 
 ---
 
-## 📌 Projects
+## 🟡 📂 Projects
 - 📊 Sales Data Analysis (Excel)
 - 📉 Dashboard using Power BI
 - 🗄️ SQL Data Analysis Project
 
 ---
 
-## 📫 Contact Me
+## 🟡 📫 Contact Me
 - 📧 Email: rashiya1304@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/rashiya-farheen-81aa2a37b
 
