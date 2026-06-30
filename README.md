@@ -14,10 +14,10 @@
 ---
 
 ## 🟡 ⚙️ Skills
-- 📊 Excel (Data Cleaning, Pivot Tables, Charts)
-- 🗄️ SQL (Joins, Queries, Basic Analysis)
-- 📉 Power BI (Dashboards & Reports)
-- 🐍 Python (Basics)
+- 📊 Advance Excel (Data Cleaning, Pivot Tables, VLOOKUP/XLOOKUP, Charts)
+- 🗄️ SQL (Joins, Queries, Aggregations)
+- 📉 Power BI (Dashboards & Reports, Data Modeling, DAX)
+- 🐍 Python (Numpy, Pandas)
 
 ---
 
