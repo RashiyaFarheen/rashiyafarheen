@@ -30,7 +30,7 @@
 
 ## 🟡 📫 Contact Me
 - 📧 Email: rashiya1304@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/rashiya-farheen-81aa2a37b
+- 🧳 LinkedIn: www.linkedin.com/in/rashiya-farheen-81aa2a37b
 
 ---
 
