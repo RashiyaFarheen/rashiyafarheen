@@ -1,6 +1,6 @@
-# Hi there 👋, I'm Rashiya Farheen
+# Hi there 🙋‍♀️, I'm Rashiya Farheen
 
-🎯 Aspiring Data Analyst | BCA Graduate  
+🧭 Aspiring Data Analyst | BCA Graduate  
 📊 Passionate about Data, Visualization & Insights  
 
 ---
@@ -13,7 +13,7 @@
 
 ---
 
-## 🟡 🧠 Skills
+## 🟡 ⚙️ Skills
 - 📊 Excel (Data Cleaning, Pivot Tables, Charts)
 - 🗄️ SQL (Joins, Queries, Basic Analysis)
 - 📉 Power BI (Dashboards & Reports)
