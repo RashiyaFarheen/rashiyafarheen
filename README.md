@@ -1,16 +1,37 @@
-## Hi there 👋, I'm Rashiya Farheen
+# Hi there 👋, I'm Rashiya Farheen
 
-<!--
-**RashiyaFarheen/rashiyafarheen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | BCA Graduate  
+📊 Passionate about Data, Visualization & Insights  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💡 About Me
+- 🎓 Completed Bachelor of Computer Applications (BCA)
+- 📈 Interested in Data Analysis & Business Insights
+- 💻 Skilled in Excel, SQL, Power BI (Learning)
+- 🚀 Currently improving my data skills through projects
+
+---
+
+## 🛠️ Skills
+- 📊 Excel (Data Cleaning, Pivot Tables, Charts)
+- 🗄️ SQL (Joins, Queries, Basic Analysis)
+- 📉 Power BI (Dashboards & Reports)
+- 🐍 Python (Basics)
+
+---
+
+## 📌 Projects
+- 📊 Sales Data Analysis (Excel)
+- 📉 Dashboard using Power BI
+- 🗄️ SQL Data Analysis Project
+
+---
+
+## 📫 Contact Me
+- 📧 Email: rashiya1304@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/rashiya-farheen-81aa2a37b
+
+---
+
+⭐ "Turning data into meaningful insights"
