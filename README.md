@@ -1,23 +1,23 @@
 # Hi there 🙋‍♀️, I'm Rashiya Farheen
 
 🧭 Aspiring Data Analyst | BCA Graduate  
-📊 Passionate about Data, Visualization & Insights  
+📊 Focused on Data analysis, Visualization & Business Insights | Excel, SQL, Power BI 
 
 ---
 
-## 🟡 🚀 About Me
-- 🎓 Completed Bachelor of Computer Applications (BCA)
-- 📈 Interested in Data Analysis & Business Insights
-- 💻 Skilled in Excel, SQL, Power BI (Learning)
-- 🚀 Currently improving my data skills through projects
+## 🟡 About Me
+- 🎯 Transitioning from BCA into data analytics, driven by curiosity to solve business problems through data
+- 🔍 Excited by finding hidden patterns in numbers and turning messy data into insights that drive decisions
+- 📊 Hands-on with Advanced Excel (Pivot Tables, VLOOKUP/XLOOKUP) and Power BI (Data Modeling, DAX, Dashboard Creation)
+- 🚀 Actively building a project portfolio to apply my skills on real-world datasets and showcase practical analysis
 
 ---
 
-## 🟡 ⚙️ Skills
-- 📊 Advance Excel (Data Cleaning, Pivot Tables, VLOOKUP/XLOOKUP, Charts)
+## 🟡 Skills
+- 📊 Advanced Excel (Data Cleaning, Pivot Tables, VLOOKUP/XLOOKUP, Charts)
 - 🗄️ SQL (Joins, Queries, Aggregations)
 - 📉 Power BI (Dashboards & Reports, Data Modeling, DAX)
-- 🐍 Python (Numpy, Pandas)
+- 🐍 Python (Numpy, Pandas - Learning)
 
 ---
 
